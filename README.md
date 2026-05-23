@@ -1,10 +1,9 @@
 # 🏦 Bank Loan Analysis Dashboard
 
-![Power BI](Power BI)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)
 ![Python](https://img.shields.io/badge/Python-EDA-green?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?logo=mysql)
-
 An end-to-end **Bank Loan Analysis Project** developed using **Python, SQL, Power BI, and Tableau** to analyze loan applications, repayment trends, customer financial behavior, and loan risk performance.
 
 This project transforms raw financial data into meaningful business insights through **data preprocessing, exploratory analysis, and interactive dashboards**.
