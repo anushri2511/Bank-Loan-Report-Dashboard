@@ -56,7 +56,7 @@ Power BI Dashboard
 Tableau Dashboard
      ↓
 Business Insights & Reporting
-```
+
 
 
 
@@ -79,8 +79,75 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 ```
+# 🗄️ SQL Analysis
+
+SQL was used to perform data querying, KPI extraction, and business analysis on the bank loan dataset before visualization in Power BI and Tableau.
+
+## SQL Operations Performed
+
+- Data Filtering
+- Aggregations & Grouping
+- KPI Calculations
+- Loan Status Analysis
+- Monthly Trend Analysis
+- Good Loan vs Bad Loan Analysis
+- State-wise Loan Distribution
+- Interest Rate Analysis
 
 ---
+
+## Sample SQL Queries
+
+### Total Loan Applications
+
+
+SELECT COUNT(id) AS Total_Loan_Applications
+FROM bank_loan_data;
+
+
+### Total Funded Amount
+
+SELECT SUM(loan_amount) AS Total_Funded_Amount
+FROM bank_loan_data;
+
+
+### Good Loan Percentage
+
+
+SELECT 
+    (COUNT(CASE WHEN loan_status = 'Fully Paid' THEN id END) * 100.0) 
+    / COUNT(id) AS Good_Loan_Percentage
+FROM bank_loan_data;
+
+
+### Bad Loan Percentage
+
+
+SELECT 
+    (COUNT(CASE WHEN loan_status = 'Charged Off' THEN id END) * 100.0) 
+    / COUNT(id) AS Bad_Loan_Percentage
+FROM bank_loan_data;
+
+
+### Monthly Loan Applications Trend
+
+SELECT 
+    MONTH(issue_date) AS Month_Number,
+    DATENAME(MONTH, issue_date) AS Month_Name,
+    COUNT(id) AS Total_Applications
+FROM bank_loan_data
+GROUP BY MONTH(issue_date), DATENAME(MONTH, issue_date)
+ORDER BY Month_Number;
+
+## SQL Insights Generated
+
+✔️ Identified high-risk loan categories  
+✔️ Calculated funded vs received amounts  
+✔️ Tracked monthly application growth  
+✔️ Analyzed repayment trends  
+✔️ Compared good loans and charged-off loans  
+✔️ Evaluated state-wise loan performance  
+
 
 # 📊 Dashboard Pages
 
