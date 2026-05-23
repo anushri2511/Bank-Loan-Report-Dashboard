@@ -86,7 +86,6 @@ import seaborn as sns
 
 # 1️⃣ Summary Dashboard
 # 📊 Dashboard Preview
-
 https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/d6ebdab2d0a4dd809038fa80254a32003249922f/Power%20BI/Screenshot%202026-05-24%20000130.png
 
 The Summary Dashboard provides a high-level overview of overall loan performance.
@@ -110,6 +109,7 @@ The Summary Dashboard provides a high-level overview of overall loan performance
 ---
 
 # 2️⃣ Overview Dashboard
+https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/870cebbc0bdddf8de3f9f2fa602b42eaa89238f6/Power%20BI/Screenshot%202026-05-24%20000135.png
 
 The Overview Dashboard focuses on trends and distribution analysis.
 
@@ -133,6 +133,7 @@ The Overview Dashboard focuses on trends and distribution analysis.
 ---
 
 # 3️⃣ Details Dashboard
+https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/870cebbc0bdddf8de3f9f2fa602b42eaa89238f6/Power%20BI/Screenshot%202026-05-24%20000139.png
 
 The Details Dashboard provides granular loan-level analysis.
 
