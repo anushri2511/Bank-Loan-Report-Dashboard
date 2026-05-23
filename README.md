@@ -2,11 +2,11 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://github.com/anushri2511/Bank-Loan-Report-Dashboard/tree/619b12c1f5594f60115f0fcc57051dddc1ecb946/Power%20BI)
 
-[![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)]((https://github.com/anushri2511/Bank-Loan-Report-Dashboard/tree/5cfa423dda4a20de6aaba8a3c62a16b5ff4d5bf7/Tableu))
+[![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)](https://github.com/anushri2511/Bank-Loan-Report-Dashboard/tree/5cfa423dda4a20de6aaba8a3c62a16b5ff4d5bf7/Tableu)
 
-[![Python](https://img.shields.io/badge/Python-EDA-green?logo=python)](YOUR_NOTEBOOK_LINK)
+[![Python](https://img.shields.io/badge/Python-EDA-green?logo=python)](https://github.com/anushri2511/Bank-Loan-Report-Dashboard/tree/e856ddca2b5ec847ba6a2eec6968f731ac5f7a7c/Python)
 
-[![SQL](https://img.shields.io/badge/SQL-Database-orange?logo=mysql)](YOUR_SQL_FILE_LINK)
+
 An end-to-end **Bank Loan Analysis Project** developed using **Python, SQL, Power BI, and Tableau** to analyze loan applications, repayment trends, customer financial behavior, and loan risk performance.
 
 This project transforms raw financial data into meaningful business insights through **data preprocessing, exploratory analysis, and interactive dashboards**.
