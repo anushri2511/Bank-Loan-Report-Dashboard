@@ -6,6 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-EDA-green?logo=python)](https://github.com/anushri2511/Bank-Loan-Report-Dashboard/tree/e856ddca2b5ec847ba6a2eec6968f731ac5f7a7c/Python)
 
+[![SQL](https://img.shields.io/badge/SQL-Database-orange?logo=mysql)](https://github.com/anushri2511/Bank-Loan-Report-Dashboard/tree/944e8dbb14e8b24455b852c2a979a31518c2a0fc/SQL)
 
 An end-to-end **Bank Loan Analysis Project** developed using **Python, SQL, Power BI, and Tableau** to analyze loan applications, repayment trends, customer financial behavior, and loan risk performance.
 
