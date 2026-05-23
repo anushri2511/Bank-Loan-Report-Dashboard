@@ -70,7 +70,7 @@ The Python notebook was used for:
 - Exploratory Data Analysis (EDA)
 - KPI Validation
 - Loan Trend Analysis
-- ```
+
 
 ## Python Libraries Used
 
