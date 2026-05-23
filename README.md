@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Analysis Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Power BI](Power BI)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)
 ![Python](https://img.shields.io/badge/Python-EDA-green?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?logo=mysql)
