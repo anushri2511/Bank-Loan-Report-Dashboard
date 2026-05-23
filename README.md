@@ -70,6 +70,7 @@ The Python notebook was used for:
 - Exploratory Data Analysis (EDA)
 - KPI Validation
 - Loan Trend Analysis
+- ```
 
 ## Python Libraries Used
 
@@ -78,7 +79,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-```
+
 # 🗄️ SQL Analysis
 
 SQL was used to perform data querying, KPI extraction, and business analysis on the bank loan dataset before visualization in Power BI and Tableau.
