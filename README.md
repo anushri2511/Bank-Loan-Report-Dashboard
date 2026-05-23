@@ -2,7 +2,7 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://github.com/anushri2511/Bank-Loan-Report-Dashboard/tree/619b12c1f5594f60115f0fcc57051dddc1ecb946/Power%20BI)
 
-[![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)](https://github.com/anushri2511/Bank-Loan-Report-Dashboard/tree/1ef76bcffa575bc044e4b1b2db16fd95c73d95a7/Tableau))
+[![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)](https://github.com/anushri2511/Bank-Loan-Report-Dashboard/tree/1ef76bcffa575bc044e4b1b2db16fd95c73d95a7/Tableau)
 
 [![Python](https://img.shields.io/badge/Python-EDA-green?logo=python)](https://github.com/anushri2511/Bank-Loan-Report-Dashboard/tree/e856ddca2b5ec847ba6a2eec6968f731ac5f7a7c/Python)
 
