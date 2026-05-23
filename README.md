@@ -85,6 +85,9 @@ import seaborn as sns
 # 📊 Dashboard Pages
 
 # 1️⃣ Summary Dashboard
+# 📊 Dashboard Preview
+
+![Dashboard]([Images/powerbi_summary.png](https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/d6ebdab2d0a4dd809038fa80254a32003249922f/Power%20BI/Screenshot%202026-05-24%20000130.png))
 
 The Summary Dashboard provides a high-level overview of overall loan performance.
 
