@@ -255,19 +255,19 @@ The Details Dashboard provides granular loan-level analysis.
 ## 🔹 Power BI Dashboard
 
 ### Summary Page
-https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/d6ebdab2d0a4dd809038fa80254a32003249922f/Power%20BI/Screenshot%202026-05-24%20000130.png
+https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/0c3c5508ee95e19aaaf926d7dc0b1ae9975e8268/Power%20BI/Summary%20Power%20BI.png
 - Loan KPIs
 - Good vs Bad Loan Analysis
 - Loan Status Metrics
 
 ### Overview Page
-https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/870cebbc0bdddf8de3f9f2fa602b42eaa89238f6/Power%20BI/Screenshot%202026-05-24%20000135.png
+https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/0c3c5508ee95e19aaaf926d7dc0b1ae9975e8268/Power%20BI/Overview%20Power%20BI.png
 - Loan Trends
 - State-wise Analysis
 - Purpose & Home Ownership Insights
 
 ### Details Page
-https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/870cebbc0bdddf8de3f9f2fa602b42eaa89238f6/Power%20BI/Screenshot%202026-05-24%20000139.png
+https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/0c3c5508ee95e19aaaf926d7dc0b1ae9975e8268/Power%20BI/Details%20Power%20BI.png
 - Detailed Loan Records
 - Interactive Filtering
 
@@ -276,20 +276,19 @@ https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/870cebbc0bdddf8de
 ## 🔹 Tableau Dashboard
 
 ### Summary Dashboard
-https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/c6b0bec7f1fd3a302fcee020cd6207a329a26095/Tableau/Screenshot%202026-05-24%20000115.png
+https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/1a3702a45ba364c35301293b4ca98a3537602930/Tableau/Summary.png
 
 - KPI Monitoring
 - Loan Status Analysis
 
 ### Overview Dashboard
-
-https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/c6b0bec7f1fd3a302fcee020cd6207a329a26095/Tableau/Screenshot%202026-05-24%20000115.png
+https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/1a3702a45ba364c35301293b4ca98a3537602930/Tableau/Overview.png
 - Trend Analysis
 - Geographic Visualization
 - Loan Category Distribution
 
 ### Details Dashboard
-https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/c6b0bec7f1fd3a302fcee020cd6207a329a26095/Tableau/Screenshot%202026-05-24%20000119.png
+https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/1a3702a45ba364c35301293b4ca98a3537602930/Tableau/Details.png
 - Detailed Loan-Level Analysis
 - Dynamic Filters
 
