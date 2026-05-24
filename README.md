@@ -277,17 +277,19 @@ https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/870cebbc0bdddf8de
 
 ### Summary Dashboard
 https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/c6b0bec7f1fd3a302fcee020cd6207a329a26095/Tableau/Screenshot%202026-05-24%20000115.png
+
 - KPI Monitoring
 - Loan Status Analysis
 
 ### Overview Dashboard
-https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/c6b0bec7f1fd3a302fcee020cd6207a329a26095/Tableau/Screenshot%202026-05-24%20000119.png
+
+https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/c6b0bec7f1fd3a302fcee020cd6207a329a26095/Tableau/Screenshot%202026-05-24%20000115.png
 - Trend Analysis
 - Geographic Visualization
 - Loan Category Distribution
 
 ### Details Dashboard
-https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/c6b0bec7f1fd3a302fcee020cd6207a329a26095/Tableau/Screenshot%202026-05-24%20000123.png
+https://github.com/anushri2511/Bank-Loan-Report-Dashboard/blob/c6b0bec7f1fd3a302fcee020cd6207a329a26095/Tableau/Screenshot%202026-05-24%20000119.png
 - Detailed Loan-Level Analysis
 - Dynamic Filters
 
