@@ -255,21 +255,21 @@ The Details Dashboard provides granular loan-level analysis.
 ## 🔹 Power BI Dashboard
 
 ### Summary Page
-<img width="1000" height="900" alt="Summary Power BI" src="https://github.com/user-attachments/assets/5595d6d0-495e-4c1f-b577-081489440d36" />
+<img width="1920" height="1020" alt="Summary Power BI" src="https://github.com/user-attachments/assets/5595d6d0-495e-4c1f-b577-081489440d36" />
 
 - Loan KPIs
 - Good vs Bad Loan Analysis
 - Loan Status Metrics
 
 ### Overview Page
-<img width="1000" height="900" alt="Overview Power BI" src="https://github.com/user-attachments/assets/12d61a63-af5d-419f-9248-cd8cfceab97b" />
+<img width="1920" height="1020" alt="Overview Power BI" src="https://github.com/user-attachments/assets/12d61a63-af5d-419f-9248-cd8cfceab97b" />
 
 - Loan Trends
 - State-wise Analysis
 - Purpose & Home Ownership Insights
 
 ### Details Page
-<img width="1000" height="900" alt="Details Power BI" src="https://github.com/user-attachments/assets/8ef5c54b-b036-42e4-a0a9-247d622203b0" />
+<img width="1920" height="1020" alt="Details Power BI" src="https://github.com/user-attachments/assets/8ef5c54b-b036-42e4-a0a9-247d622203b0" />
 
 - Detailed Loan Records
 - Interactive Filtering
@@ -279,20 +279,20 @@ The Details Dashboard provides granular loan-level analysis.
 ## 🔹 Tableau Dashboard
 
 ### Summary Dashboard
-<img width="1000" height="900" alt="Summary" src="https://github.com/user-attachments/assets/64aba2e0-c122-4bab-980a-8bbe1d873278" />
+<img width="1920" height="1020" alt="Summary" src="https://github.com/user-attachments/assets/64aba2e0-c122-4bab-980a-8bbe1d873278" />
 
 - KPI Monitoring
 - Loan Status Analysis
 
 ### Overview Dashboard
-<img width="1000" height="900" alt="Overview" src="https://github.com/user-attachments/assets/708499d8-ad95-4808-be94-c65e644767e4" />
+<img width="1920" height="1020" alt="Overview" src="https://github.com/user-attachments/assets/708499d8-ad95-4808-be94-c65e644767e4" />
 
 - Trend Analysis
 - Geographic Visualization
 - Loan Category Distribution
 
 ### Details Dashboard
-<img width="1000" height="900" alt="Details" src="https://github.com/user-attachments/assets/c291693e-8f10-4f1b-a310-deda205c358d" />
+<img width="1920" height="1020" alt="Details" src="https://github.com/user-attachments/assets/c291693e-8f10-4f1b-a310-deda205c358d" />
 
 - Detailed Loan-Level Analysis
 - Dynamic Filters
